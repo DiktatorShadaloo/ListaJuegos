@@ -35,7 +35,6 @@
 250 CC
 600
 720 Degrees
-
 800 Fathoms
 1000 Miglia: Great 1000 Miles Rally
 1941: Counter Attack
