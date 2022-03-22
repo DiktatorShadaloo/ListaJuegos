@@ -34,7 +34,6 @@
 250 CC
 600
 720 Degrees
-
 800 Fathoms
 1000 Miglia: Great 1000 Miles Rally
 1941: Counter Attack
@@ -4043,7 +4042,7 @@ Robin's Adventure
 Robo Army
 Robo Wres 2001
 Robocop 2
-Robocop 2 [Japón]
+Robocop 2 [JapÃ³n]
 Robocop 3
 Robocop
 Robot Bowl
@@ -4926,7 +4925,7 @@ suprlocoo
 Sure Shot
 Surf Planet
 Surprise Attack
-Surprise Attack [Japón]
+Surprise Attack [JapÃ³n]
 survartsj
 Survival
 Survival Arts
