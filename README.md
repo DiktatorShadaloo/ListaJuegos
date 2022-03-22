@@ -1,4 +1,52 @@
 # ListaJuegos
+'88 Games 
+'99: The Last War  
+1 on 1 Government  
+2 On 2 Open Ice Challenge  
+3 Bags Full  
+3 Count Bout
+3 Count Bout / Fire Suplex  
+3-D Bowling 
+3on3dunk
+3stoogesa
+3wondersr1
+3x3puzzl
+3x3puzzla
+4 En Raya 
+4 Fun in 1 
+4-D Warriors  
+4enrayaa
+005 
+7 e Mezzo 
+7 Ordi  
+9-Ball Shootout  
+9-Ball Shootout Championship 
+10-Yard Fight  
+10-Yard Fight '85  
+18 Holes Pro Golf  
+19XX: The War Against Destiny
+19XX: The War Against Destiny 
+19XX: The War Against Destiny  
+19xxar1
+19xxjr2
+21  
+25pacmano
+30 Test  
+39 in 1 
+64th. Street - A Detective Story  
+250 CC 
+600 
+720 Degrees  
+800 Fathoms 
+1000 Miglia: Great 1000 Miles Rally  
+1941: Counter Attack
+1941: Counter Attack  
+1942  
+1942h
+1943 Kai: Midway Kaisen  
+1943 the battle of Midway 
+1943: Battle of Midway  
+1943: Midway Kaisen 
 1943: Midway Kaisen  
 1943: The Battle of Midway  
 1944: The Loop Master
@@ -4941,14 +4989,12 @@ Stadium Hero 96
 Stadium Hero  
 Stagger I  
 Stakes Winner
-Stakes Winner 2
 Stakes Winner 2 
 Stakes Winner / Stakes Winner - GI kinzen seiha e no michi 
 star100
 Star Castle  
 Star Cruiser 
 Star Fighter 
-Star Fighter  
 Star Fire 2 
 Star Fire  
 Star Force 
@@ -4971,7 +5017,6 @@ Star Trek: The Next Generation
 Star Trek: The Next Generation  SP1 
 Star Trip 
 Star Wars 
-Star Wars  
 Star Wars Arcade 
 Starblade  
 starbladj
@@ -4990,7 +5035,6 @@ Steal See
 Steel Force 
 Steel Gunner 
 Steel Gunner 2  
-Steel Gunner  
 Steel Talons  
 Steel Worker 
 Steep Slope Sliders  
@@ -5022,33 +5066,22 @@ Street Drivin'
 Street Fight  
 Street Fighter  
 Street Fighter Alpha 2
-Street Fighter Alpha 2  
 Street Fighter Alpha 3
-Street Fighter Alpha 3  
 Street Fighter Alpha: Warriors' Dreams
-Street Fighter Alpha: Warriors' Dreams  
 Street Fighter EX2  
 Street Fighter EX2 Plus  
 Street Fighter EX  
 Street Fighter EX Plus  
 Street Fighter II' Turbo: Hyper Fighting  
 Street Fighter II': Champion Edition
-Street Fighter II': Champion Edition  
 Street Fighter II': Hyper Fighting
-Street Fighter II': Hyper Fighting  
 Street Fighter II': Magic Delta Turbo  
 Street Fighter II: The World Warrior
-Street Fighter II: The World Warrior  
 Street Fighter III 2nd Impact: Giant Attack
-Street Fighter III 2nd Impact: Giant Attack  
-Street Fighter III 3rd Strike: Fight for the Future
 Street Fighter III 3rd Strike: Fight for the Future  
 Street Fighter III: New Generation
-Street Fighter III: New Generation  
-Street fighter Zero 
 Street Fighter Zero 2  
-Street Fighter Zero 2 Alpha
-Street Fighter Zero 2 Alpha  
+Street Fighter Zero 2 Alpha 
 Street Fighter Zero 3  
 Street Fighter Zero  
 Street Fighter: The Movie  
@@ -5194,7 +5227,6 @@ Super Punch-Out!!
 Super Punch-Out!!  
 Super Puzzle Bobble  
 Super Puzzle Fighter II Turbo
-Super Puzzle Fighter II Turbo  
 Super Puzzle Fighter II X  
 Super Qix  
 Super Ranger  
@@ -5205,9 +5237,7 @@ Super Rider
 Super Shanghai Dragon's Eye  
 Super Shot 
 Super Sidekicks
-Super Sidekicks 2 - The World Championship
 Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football  
-Super Sidekicks 3 - The Next Glory
 Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi 
 Super Sidekicks / Tokuten Ou 
 Super Slam  
@@ -5226,10 +5256,8 @@ Super Stars
 Super Stingray  
 Super Street Fighter II - The New Challengers  
 Super Street Fighter II Turbo
-Super Street Fighter II Turbo  
 Super Street Fighter II X: Grand Master Challenge  
 Super Street Fighter II: The New Challengers
-Super Street Fighter II: The New Challengers  
 Super Street Fighter II: The Tournament Battle  
 Super Strike Bowling 
 Super Tank 
@@ -5413,7 +5441,6 @@ The Atarians
 The Battle-Road 
 The Berenstain Bears in Big Paw's Cave 
 The Berlin Wall 
-The Berlin Wall  
 The Big Pro Wrestling! 
 The Billiards  
 The Block Kuzushi  
@@ -5438,7 +5465,6 @@ The Final Round
 The First Funky Fighter 
 The Flintstones  
 The Game Paradise - Master of Shooting!
-The Gladiator - Road of the Sword
 The Gladiator - Road of the Sword / Shen Jian  
 The Glob 
 The Glob  
@@ -5461,30 +5487,20 @@ The King of Fighters 10th Anniversary 2005 Unique
 The King of Fighters 10th Anniversary  
 The King of Fighters 10th Anniversary Extra Plus  
 The King of Fighters 2000
-The King of Fighters 2000  
 The King of Fighters 2001
-The King of Fighters 2001  
 The King of Fighters 2002
-The King of Fighters 2002  
 The King of Fighters 2002 Magic Plus  
 The King of Fighters 2002 Magic Plus II  
 The King of Fighters 2002 Plus  
 The King of Fighters 2003
-The King of Fighters 2003  
 The King of Fighters 2004 Plus / Hero  
 The King of Fighters 2004 Ultra Plus  
 The King of Fighters '94
-The King of Fighters '94  
 The King of Fighters '95
-The King of Fighters '95  
 The King of Fighters '96
-The King of Fighters '96  
-The King of Fighters '97
 The King of Fighters '97  
 The King of Fighters '97 Plus  
-The King of Fighters '98 - The Slugfest
 The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends  
-The King of Fighters '99 - Millennium Battle  
 The King of Fighters '99 : Millennium Battle
 The King of Fighters Special Edition 2004  
 The Koukouyakyuh 
@@ -5736,7 +5752,6 @@ Tumble Pop
 Tunnel Hunt 
 Tunnel Hunt  
 Turbo 
-Turbo  
 Turbo Force  
 Turbo Out Run  
 Turbo Outrun  
@@ -5767,7 +5782,6 @@ Twin Squash
 TwinBee  
 Twinkle 
 Twinkle Star Sprites
-Twinkle Star Sprites 
 Twins  
 Two Crude  
 Two Tigers  
@@ -5789,8 +5803,7 @@ Ufo Senshi Yohko Chan
 ufomini
 Ultimate Ecology  
 Ultimate Mortal Kombat 3  
-Ultimate Tennis 
-Ultimate Tennis  
+Ultimate Tennis   
 Ultra Balloon 
 Ultra Tank 
 Ultra Toukon Densetsu  
@@ -5827,12 +5840,9 @@ Valtric
 Vamf x1/2  
 Vamp x1/2  
 Vampire Hunter 2: Darkstalkers Revenge
-Vampire Hunter 2: Darkstalkers Revenge  
 Vampire Hunter: Darkstalkers' Revenge  
-Vampire Savior 2: The Lord of Vampire
-Vampire Savior 2: The Lord of Vampire  
+Vampire Savior 2: The Lord of Vampire 
 Vampire Savior: The Lord of Vampire
-Vampire Savior: The Lord of Vampire  
 Vampire: The Night Warriors  
 Van-Van Car 
 Van-Van Car  
@@ -5847,7 +5857,6 @@ Varia Metal
 Varia Metal  
 Varkon  
 Varth: Operation Thunderstorm
-Varth: Operation Thunderstorm  
 Vasara 
 Vasara 2  
 vastar3
@@ -5886,7 +5895,6 @@ videtrna
 videtron
 videtron2
 Viewpoint
-Viewpoint 
 vigilantb
 Vigilante  
 Vigilante  - Rev. G 
@@ -6098,9 +6106,7 @@ World Cup Volley '95
 World Darts  
 World Heroes
 World Heroes 2
-World Heroes 2  
 World Heroes 2 Jet
-World Heroes 2 Jet  
 World Heroes  
 World Heroes Perfect
 World Heroes Perfect 
@@ -6139,8 +6145,6 @@ X-Day 2
 X-Files 
 X-Men  
 X-Men Vs. Street Fighter
-X-Men Vs. Street Fighter  
-X-Men: Children of the Atom
 X-Men: Children of the Atom  
 X-Plan  
 X-Train  
@@ -6202,3 +6206,32 @@ Zero Point
 Zero Team 2000 
 Zero team USA 
 Zero Time 
+Zero Wing  
+Zero Zone 
+zerohouri
+Zeroize  
+zeropntj
+zerotimed
+zerowing1
+zerowingw
+Zhong Guo Long  
+Zhong Guo Long II  
+Zig Zag  
+Zing Zing Zip 
+Zintrick
+Zintrick / Oshidashi Zentrix  
+Zip & Zap 
+Zoar 
+Zodiack 
+Zoku Otenamihaiken  
+Zombie Raid  
+zombraidp
+zombraidpj
+Zoo Keeper  
+Zoom 909 
+Zooo  
+Zunzunkyou No Yabou  
+Zupapa
+Zupapa! 
+Zwackery 
+Zzyzzyxx  
